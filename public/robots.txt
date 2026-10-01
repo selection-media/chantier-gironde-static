@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chantier-gironde.onrender.com/sitemap.xml

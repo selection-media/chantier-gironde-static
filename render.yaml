@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: chantier-gironde
+    runtime: static
+    buildCommand: echo "Static site ready"
+    staticPublishPath: ./public
