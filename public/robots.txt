@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chantier-gironde.onrender.com/sitemap.xml
+Sitemap: https://selection-media.github.io/chantier-gironde-static/sitemap.xml
